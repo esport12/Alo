@@ -1,0 +1,10 @@
+{"status":"success",
+"msg":"Records Found",
+"data":"http://51.79.39.236:80",
+"version":"",
+"appUrl":"",
+"images":["https://i.imgur.com/7cpcPO7.png",
+"https://i.imgur.com/9PzrpQO.jpg",
+"https://i.imgur.com/9PzrpQO.jpg",
+"https://i.imgur.com/J42mKge.png",
+"https://i.imgur.com/J42mKge.png"]}
