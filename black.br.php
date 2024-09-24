@@ -1,6 +1,6 @@
 {"status":"success",
 "msg":"Records Found",
-"data":"http://152.89.62.76:8880",
+"data":"http://dnsbr.xyz:80",
 "version":"",
 "appUrl":"",
 "images":["https://i.imgur.com/7cpcPO7.png",
