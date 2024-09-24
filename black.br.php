@@ -1,6 +1,6 @@
 {"status":"success",
 "msg":"Records Found",
-"data":"http://51.79.39.236:80",
+"data":"http://152.89.62.76:8880",
 "version":"",
 "appUrl":"",
 "images":["https://i.imgur.com/7cpcPO7.png",
