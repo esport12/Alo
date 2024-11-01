@@ -1,6 +1,6 @@
 {"status":"success",
 "msg":"Records Found",
-"data":"http://dnsbr.xyz:80",
+"data":"http://rdns.tv:80",
 "version":"",
 "appUrl":"",
 "images":["https://i.imgur.com/7cpcPO7.png",
