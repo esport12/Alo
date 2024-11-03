@@ -4,7 +4,7 @@
 "version":"",
 "appUrl":"",
 "images":["https://i.imgur.com/7cpcPO7.png",
-"https://i.imgur.com/9PzrpQO.jpg",
-"https://i.imgur.com/9PzrpQO.jpg",
-"https://i.imgur.com/J42mKge.png",
-"https://i.imgur.com/J42mKge.png"]}
+"https://i.imgur.com/BrI3YW3.jpg",
+"https://i.imgur.com/BrI3YW3.jpg",
+"https://i.imgur.com/WUzGT4W.png",
+"https://i.imgur.com/WUzGT4W.png"]}
