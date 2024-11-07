@@ -1,6 +1,6 @@
 {"status":"success",
 "msg":"Records Found",
-"data":"http://rdns.tv:80",
+"data":"https://7forever.xyz:80",
 "version":"",
 "appUrl":"",
 "images":["https://i.imgur.com/7cpcPO7.png",
