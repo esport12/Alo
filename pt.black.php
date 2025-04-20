@@ -7,6 +7,7 @@
   "data": "http://rafadnsvip.live:8080",
   "username": "Nunosilva62",
   "password": "LGmfKeNqq2020",
+  "full_url": "http://rafadnsvip.live:8080/get.php?username=Nunosilva62&password=LGmfKeNqq2020&type=m3u_plus&output=ts",
   "version": "",
   "appUrl": "",
   "dual_screen": "1234",
