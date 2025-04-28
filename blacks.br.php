@@ -1,6 +1,6 @@
 {"status":"success",
 "msg":"Records Found",
-"data":"http://cdn.topk.live",
+"data":"http://peiga.net",
 "version":"",
 "appUrl":"",
 "images":["https://i.imgur.com/7cpcPO7.png",
